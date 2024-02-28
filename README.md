@@ -1,5 +1,5 @@
 # Simulating Scratchy Analog Film
-<br />
+
 <br />
 <br />
 
@@ -7,9 +7,8 @@ This project consists of 2 simple demos. The filter code is based on Apple's Cor
 
 <br />
 
-The aim of the first demo is to apply the chained filter to a photo. The second demo show how to apply the filter to each frame of a movie.
+The aim of the first demo is to apply the chained filter to a photo. The second demo shows how to apply the filter to each frame of a movie.
 
-<br />
 <br />
 <br />
 
@@ -20,19 +19,19 @@ Link to the Article:
 https://developer.apple.com/documentation/coreimage/simulating_scratchy_analog_film
 
 <br />
-br />
+<br />
 
 **Credits**:
 
-br />
+<br />
 
 Apple for the ElephantSeals.mov
 
-br />
+<br />
 
 Simon Gladman for the coffeecup.jpg graphic which is an asset of his Filterpedia project.
 
-br />
-br />
+<br />
+<br />
 
 Compiled with XCode 8.x
